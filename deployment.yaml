@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: simple-webapp
-          image: docker.io/naufalaysf/webapp:2212210834
+          image: docker.io/naufalaysf/webapp:2212210840
           ports:
             - containerPort: 80
 
